@@ -1,0 +1,25 @@
+{
+  "name": "distinct-promise-lock",
+  "version": "1.0.0",
+  "description": "Promise based lock implementation in es6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdullah2993/distinct-promise-lock.git"
+  },
+  "keywords": [
+    "lock",
+    "distinct",
+    "promise",
+    "es6"
+  ],
+  "author": "abdullah2993",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abdullah2993/distinct-promise-lock/issues"
+  },
+  "homepage": "https://github.com/abdullah2993/distinct-promise-lock#readme"
+}
